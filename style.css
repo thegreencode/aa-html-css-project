@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: lightgrey;
 }
 
 #site_name {
@@ -15,14 +15,16 @@ img {
 }
 
 .the-nav {
+    margin: 0 auto;
     display: inline-block;
     background-color: peru;
     overflow: hidden;
 }
 
 .nav-link {
+    margin: 0 auto;
     float: left;
-    color: white;
+    color: cornflowerblue;
     text-align: center;
     padding: 15px;
     text-decoration: none;
