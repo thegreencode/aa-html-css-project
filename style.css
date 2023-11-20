@@ -69,6 +69,11 @@ body {
     float: right;
   }
 
+  .top3, .bottom3 {
+    padding: 10px 15px;
+  }
+
+
 
 
 
