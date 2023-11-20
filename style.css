@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+.site_name {
+    font-family: Oswald, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+}
