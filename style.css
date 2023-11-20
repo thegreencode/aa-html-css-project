@@ -5,8 +5,12 @@ body {
 
   .pic-nav {
     margin: 0 auto;
-    width: 100%;
-    height: 10%;
+    width: 100px;
+    height: 100px;
+  }
+
+  .nav-img-div {
+    background-color: gray;
   }
 
   .topnav {
@@ -31,6 +35,16 @@ body {
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
+  }
+
+  .group1 {
+    display: inline-block;
+    padding: 10px 15px;
+  }
+
+  .group2 {
+    display: inline-block;
+    padding: 10px 15px;
   }
 
 
