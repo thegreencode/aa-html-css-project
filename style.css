@@ -14,4 +14,25 @@ body {
 
 .the-nav {
     display: inline-block;
+    background-color: peru;
+    overflow: hidden;
+}
+
+.nav-link {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.nav-link a:hover {
+    background-color: darkgrey;
+    color: white;
+}
+
+.nav-link a.active {
+    background-color: darkorange;
+    color: white;
 }
