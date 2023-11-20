@@ -45,7 +45,7 @@ body {
     overflow: auto;
   }
 
-  .column-6-left {
+  .column-3-left {
     width: 94px;
     background-color: #d7ede9;
     padding: 20px;
@@ -54,7 +54,7 @@ body {
     margin-right: 10px;
   }
 
-  .column-6-middle {
+  .column-3-middle {
     width: 93px;
     background-color: #d7ede9;
     padding: 20px;
@@ -64,7 +64,7 @@ body {
     margin-right: 10px;
   }
 
-  .column-6-right {
+  .column-3-right {
     width: 94px;
     background-color: #d7ede9;
     padding: 20px;
