@@ -13,6 +13,10 @@ body {
     background-color: gray;
   }
 
+  .nav-img-div2 {
+    float: right;
+  }
+
   .topnav {
     overflow: hidden;
     background-color: #333;
