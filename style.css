@@ -9,7 +9,9 @@ body {
 }
 
 .pic-nav {
-    display: inline-block;
+    margin: 0 auto;
+    border-radius: 50%;
+
 }
 
 .the-nav {
