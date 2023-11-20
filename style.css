@@ -3,6 +3,10 @@ body {
     font-family: Oswald, Helvetica, sans-serif;
   }
 
+  .pic-nav {
+    width: 80%;
+  }
+
   .topnav {
     overflow: hidden;
     background-color: #333;
