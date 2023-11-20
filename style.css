@@ -46,33 +46,28 @@ body {
   }
 
   .column-3-left {
-    width: 94px;
-    background-color: #d7ede9;
+    width: 270px;
+    background-color: #d5edcd;
     padding: 20px;
-    border: 5px solid #5e9d92;
+    border: 5px solid #67a155;
     float: left;
-    margin-right: 10px;
   }
 
   .column-3-middle {
-    width: 93px;
-    background-color: #d7ede9;
+    width: 270px;
+    background-color: #d5edcd;
     padding: 20px;
-    border: 5px solid #5e9d92;
+    border: 5px solid #67a155;
     float: left;
-    margin-left: 10px;
-    margin-right: 10px;
   }
 
   .column-3-right {
-    width: 94px;
-    background-color: #d7ede9;
+    width: 270px;
+    background-color: #d5edcd;
     padding: 20px;
-    border: 5px solid #5e9d92;
+    border: 5px solid #67a155;
     float: right;
-    margin-left: 10px;
   }
-
 
 
 
