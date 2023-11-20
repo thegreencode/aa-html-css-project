@@ -46,7 +46,7 @@ body {
   }
 
   .column-3-left {
-    width: 150px;
+    width: 200px;
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
@@ -54,7 +54,7 @@ body {
   }
 
   .column-3-middle {
-    width: 150px;
+    width: 200px;
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
@@ -62,7 +62,7 @@ body {
   }
 
   .column-3-right {
-    width: 150px;
+    width: 200px;
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
