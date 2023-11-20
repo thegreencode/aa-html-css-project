@@ -50,7 +50,7 @@ body {
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
-    float: left;
+    display: inline-block;
   }
 
   .column-3-middle {
@@ -58,6 +58,7 @@ body {
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
+    display: inline-block;
   }
 
   .column-3-right {
@@ -65,7 +66,7 @@ body {
     background-color: #d5edcd;
     padding: 20px;
     border: 5px solid #67a155;
-    float: right;
+    display: inline-block;
   }
 
   .top3, .bottom3 {
