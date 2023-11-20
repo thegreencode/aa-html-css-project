@@ -29,10 +29,10 @@ body {
 
 .nav-link a:hover {
     background-color: darkgrey;
-    color: white;
+    color: black;
 }
 
 .nav-link a.active {
     background-color: darkorange;
-    color: white;
+    color: black;
 }
